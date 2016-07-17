@@ -1,0 +1,1 @@
+{"version":3,"sources":["navbar.controller.js"],"names":[],"mappings":"AAAA;;;;IAEM,gB;;;;AAEN,QAAQ,MAAR,CAAe,aAAf,EACG,UADH,CACc,kBADd,EACkC,gBADlC","file":"navbar.controller-compiled.js","sourcesContent":["'use strict';\n\nclass NavbarController {}\n\nangular.module('yeelightApp')\n  .controller('NavbarController', NavbarController);\n"]}
